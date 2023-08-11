@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+/* Typography  */
 h1, h2, h3, h4, h5, h6, p {margin-bottom: 1em;}
 h1, h2, h3, h4, h5, h6 {font-weight: 500;}
 h1 {font-size: 2em;}
@@ -19,6 +20,7 @@ p {
   font-weight: 300;
 }
 
+/* Images */
 img {
   width: 80%;
   margin-left: 10%;
@@ -32,6 +34,7 @@ img {
   margin-bottom: 1.5em;
 }
 
+/* Composition */
 .container {
   position: relative;
   width: 60%;
