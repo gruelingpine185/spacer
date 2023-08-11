@@ -1,7 +1,7 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 h1, h2, h3, h4, h5, h6, p {margin-bottom: 1em;}
@@ -14,26 +14,26 @@ h5 {font-size: 1.125em;}
 h6 {font-size: 1em;}
 
 p {
-    line-height: 1.75;
-    font-size: 1em;
-    font-weight: 300;
+  line-height: 1.75;
+  font-size: 1em;
+  font-weight: 300;
 }
 
 img {
-    width: 80%;
-    margin-left: 10%;
+  width: 80%;
+  margin-left: 10%;
 }
 
 .img-container {width: 100%;}
 
 .caption {
-    text-align: center;
-    font-size: .8em;
-    margin-bottom: 1.5em;
+  text-align: center;
+  font-size: .8em;
+  margin-bottom: 1.5em;
 }
 
 .container {
-    position: relative;
-    width: 60%;
-    left: 20%;
+  position: relative;
+  width: 60%;
+  left: 20%;
 }
