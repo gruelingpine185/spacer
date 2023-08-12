@@ -22,6 +22,7 @@ p {
 
 /* Images */
 img {
+  display: block;
   width: 80%;
   margin-left: 10%;
 }
